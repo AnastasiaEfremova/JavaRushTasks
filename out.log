@@ -1,0 +1,9 @@
+2022-03-25 11:54:48 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-25 11:54:48 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-25 11:54:48 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-03-25 11:54:48 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-25 11:54:48 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-25 11:54:48 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-25 11:54:48 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-25 11:54:48 INFO  ApacheHttpClient.startGA(36) - GAService started.
