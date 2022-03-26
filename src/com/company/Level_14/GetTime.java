@@ -1,4 +1,4 @@
-package com.company.Level_14.Time;
+package com.company.Level_14;
 
 /*
 Измерить сколько времени занимает 10 тысяч вставок для каждого списка
@@ -11,7 +11,7 @@ import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Solution {
+public class GetTime {
     public static void main(String[] args) {
         System.out.println(getInsertTimeInMs(new ArrayList()));
         System.out.println(getInsertTimeInMs(new LinkedList()));
