@@ -22,4 +22,8 @@ public class Test3 {
         Helper2.returnWorkersWithSomeAgeAndSomePosition(map, 20, "trainee");
 
     }
+
+    public static int min(int a, int b) {
+        return Math.min(a, b);
+    }
 }
